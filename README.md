@@ -23,4 +23,8 @@ They told me to DSA, so I do them in Javascript
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/BRAVO68WEB/LeetCode/tree/master/0037-sudoku-solver) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/BRAVO68WEB/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
