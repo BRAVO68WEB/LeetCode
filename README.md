@@ -31,9 +31,18 @@ They told me to DSA, so I do them in Javascript
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BRAVO68WEB/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0233-number-of-digit-one](https://github.com/BRAVO68WEB/LeetCode/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/BRAVO68WEB/LeetCode/tree/master/0233-number-of-digit-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/BRAVO68WEB/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/BRAVO68WEB/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
