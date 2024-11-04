@@ -10,12 +10,14 @@ They told me to DSA, so I do them in Javascript
 | [0036-valid-sudoku](https://github.com/BRAVO68WEB/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/BRAVO68WEB/LeetCode/tree/master/0037-sudoku-solver) |
 | [0336-palindrome-pairs](https://github.com/BRAVO68WEB/LeetCode/tree/master/0336-palindrome-pairs) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/BRAVO68WEB/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/BRAVO68WEB/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/BRAVO68WEB/LeetCode/tree/master/0037-sudoku-solver) |
 | [0336-palindrome-pairs](https://github.com/BRAVO68WEB/LeetCode/tree/master/0336-palindrome-pairs) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/BRAVO68WEB/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -48,8 +50,13 @@ They told me to DSA, so I do them in Javascript
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BRAVO68WEB/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0336-palindrome-pairs](https://github.com/BRAVO68WEB/LeetCode/tree/master/0336-palindrome-pairs) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/BRAVO68WEB/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Trie
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/BRAVO68WEB/LeetCode/tree/master/0336-palindrome-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/BRAVO68WEB/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
