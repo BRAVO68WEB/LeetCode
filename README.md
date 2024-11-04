@@ -27,4 +27,13 @@ They told me to DSA, so I do them in Javascript
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/BRAVO68WEB/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0233-number-of-digit-one](https://github.com/BRAVO68WEB/LeetCode/tree/master/0233-number-of-digit-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/BRAVO68WEB/LeetCode/tree/master/0233-number-of-digit-one) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/BRAVO68WEB/LeetCode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
