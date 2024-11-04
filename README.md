@@ -51,6 +51,7 @@ They told me to DSA, so I do them in Javascript
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BRAVO68WEB/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/BRAVO68WEB/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/BRAVO68WEB/LeetCode/tree/master/0336-palindrome-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/BRAVO68WEB/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/BRAVO68WEB/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -70,4 +71,16 @@ They told me to DSA, so I do them in Javascript
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/BRAVO68WEB/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/BRAVO68WEB/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/BRAVO68WEB/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/BRAVO68WEB/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
